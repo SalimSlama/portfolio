@@ -7,7 +7,7 @@ import { AboutSection, AboutContainer, AboutData, AboutButtons } from "./Style";
 export default function About() {
   return (
     <AboutSection id="about">
-      <Title>À propos de moi</Title>
+      <Title>À propos de moi "Med"</Title>
       <Subtitle>Mon introduction</Subtitle>
       <AboutContainer>
         <AboutData>
