@@ -36,7 +36,7 @@ export default function Home() {
           </HomeImg>
 
           <HomeData>
-            <HomeTitle>Olá, Yuri aqui!</HomeTitle>
+            <HomeTitle>Hello, Med is here!</HomeTitle>
             <HomeSubtitle>FullStack Developer</HomeSubtitle>
             <HomeDescription>
             Développeur Web passionné de technologie..

@@ -48,7 +48,7 @@ export default function Footer() {
           </FooterSocials>
         </FooterContainer>
 
-        <FooterCopy>&#169; Yuri Mendes. Todos os diretos reservados</FooterCopy>
+        <FooterCopy>&#169; Med Salim. Tous droits réservés</FooterCopy>
       </FooterBackground>
     </FooterSection>
   );

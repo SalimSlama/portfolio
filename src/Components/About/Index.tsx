@@ -27,8 +27,8 @@ export default function About() {
 
           <AboutButtons>
             <a
-              href="https://sscm.com.tn/CV%20Mohamed%20salim%20slama.pdf"
-              download
+              href={process.env.PUBLIC_URL + "/Assets/CV.pdf"}
+              download="CV.pdf"
             >
               View Cv
               <i className="uil uil-eye"></i>
